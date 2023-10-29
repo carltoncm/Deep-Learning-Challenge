@@ -40,13 +40,16 @@ The CSV used for this project contains more than 34,000 organizations that have 
 * First Attempt
 ![attempt1](Images/attempt1.PNG)
 
+ 
 * Second Attempt
 ![attempt2](Images/attempt2.PNG)
+
 
 * Third Attempt
 ![attempt3](Images/attempt3.PNG)
 
-*Fourth Attempt
+
+* Fourth Attempt
 ![attempt4](Images/attempt4.PNG)
 
 
